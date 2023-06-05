@@ -32,7 +32,7 @@ body{
 
 .topContainer h2 {
 	font-size: 30px;
-	color: lime;
+	color: cyan;
 }
 
 .colorInput input::-webkit-color-swatch {  /*Swatch: A palette of active colors*/
